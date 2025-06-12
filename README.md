@@ -66,3 +66,11 @@ No more confusing UIs, just simple conversation.
 ---
 
 ## 📁 Project Structure
+
+## 📬 Connect with Me :
+
+👤 **Akshay Gupta**
+
+📧 Email: gupta.akshay0010@gmail.com
+
+🐦 Twitter: [@_akshay1008_](https://twitter.com/_akshay1008_)
